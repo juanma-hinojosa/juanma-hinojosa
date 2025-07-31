@@ -6,7 +6,7 @@ I'm a Freelancer Fullstack Web Developer.
 
 - ⚡ **Fun fact:** A positive way I have when thinking and being *optimistic* is that sooner or later things turn out well.
 - 🔭 I’m currently studying:
-	- Mobile Application Development 
+ 
 	- Web Application Development
   - IA 
 - :bulb: I'm interested in all things frontend: **Design, UX-UI, Web Responsive and Performance**
